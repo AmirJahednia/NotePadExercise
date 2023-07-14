@@ -1,0 +1,8 @@
+White
+WindowText
+Microsoft Sans Serif
+21.75
+Regular
+Regular
+769
+1189
